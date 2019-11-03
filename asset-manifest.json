@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/clima-app-react/static/css/main.3751ae63.chunk.css",
+    "main.js": "/clima-app-react/static/js/main.7195a50b.chunk.js",
+    "main.js.map": "/clima-app-react/static/js/main.7195a50b.chunk.js.map",
+    "runtime-main.js": "/clima-app-react/static/js/runtime-main.a6597f3b.js",
+    "runtime-main.js.map": "/clima-app-react/static/js/runtime-main.a6597f3b.js.map",
+    "static/js/2.82d17c1c.chunk.js": "/clima-app-react/static/js/2.82d17c1c.chunk.js",
+    "static/js/2.82d17c1c.chunk.js.map": "/clima-app-react/static/js/2.82d17c1c.chunk.js.map",
+    "index.html": "/clima-app-react/index.html",
+    "precache-manifest.5f43a08afbe6b95c4dba807e0129f4b5.js": "/clima-app-react/precache-manifest.5f43a08afbe6b95c4dba807e0129f4b5.js",
+    "service-worker.js": "/clima-app-react/service-worker.js",
+    "static/css/main.3751ae63.chunk.css.map": "/clima-app-react/static/css/main.3751ae63.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6597f3b.js",
+    "static/js/2.82d17c1c.chunk.js",
+    "static/css/main.3751ae63.chunk.css",
+    "static/js/main.7195a50b.chunk.js"
+  ]
+}
